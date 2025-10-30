@@ -182,6 +182,4 @@ This project showcases how a **Microsoft Fabric Data Engineer** can build a comp
 
 It highlights Fabric’s power to handle both **real-time** and **historical** analytics in a single platform, enabling cities to make **data-driven decisions instantly**.
 
----
 
-Would you like me to add a **diagram (architecture flow)** for this GitHub documentation (Eventstream → Eventhouse → Lakehouse → Dashboard)? It’ll make it visually complete for presentation or portfolio use.
