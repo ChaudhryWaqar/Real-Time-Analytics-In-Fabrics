@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 # Smart City Real-Time Analytics – Microsoft Fabric (PoC)
 
 **End-to-End Real-Time Data Engineering and Analytics Solution using Azure IoT Hub and Microsoft Fabric (Eventstream, Eventhouse, Lakehouse)**
